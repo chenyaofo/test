@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  <a href="test.svg?sanitize=true">  <img src="test.svg"> </a>
+  <a href="https://raw.githubusercontent.com/chenyaofo/test/master/test.svg?sanitize=true">  <img src="test.svg"> </a>
 </p>
 
 
