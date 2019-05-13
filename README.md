@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src="cb17b-9ivjr.webp">
+<img src="1.svg">
 </p>
 
 <p align="center">
