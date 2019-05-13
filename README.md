@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src="1.svg">
+<img src="1.svg" width="40%">
 </p>
 
 <p align="center">
